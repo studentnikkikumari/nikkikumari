@@ -1,4 +1,4 @@
 # nikkikumari
 This is my first git repository 
 <br>
-author~nikki
+author~nikki-kumari
